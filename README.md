@@ -51,7 +51,7 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   README.md
  
-**此时更改等待被commit**
+***此时更改等待被commit***
 ```
 
 6. `git commit -m"commit message"`commit提交
