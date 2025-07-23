@@ -63,6 +63,6 @@ Changes to be committed:
 
 10. `git clone <SSH>`从远端克隆仓库
 
-11. 
+11. `git pull`把远端改动拉取到本地
 	
 
