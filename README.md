@@ -64,5 +64,7 @@ Changes to be committed:
 10. `git clone <SSH>`从远端克隆仓库
 
 11. `git pull`把远端改动拉取到本地
+
+12. `git log`查看git的日志，处于`git log`状态时按`q`可退出
 	
 
