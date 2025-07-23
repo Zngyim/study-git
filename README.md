@@ -66,6 +66,6 @@ Changes to be committed:
 11. `git pull`把远端改动拉取到本地
 
 12. **当远端与本地冲突时如何`git push`**
-
+1
 	
 
