@@ -1,6 +1,8 @@
 # study-git
 Using to study some git command
 
+1. 
+
 1. `git status`查看git的目前状态
 	修改文件后未添加到暂存区则会显示
 ```
