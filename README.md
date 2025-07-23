@@ -65,9 +65,7 @@ Changes to be committed:
 
 11. `git pull`把远端改动拉取到本地
 
-12. `git log`查看git的日志，处于`git log`状态时按`q`可退出
-
-13. **当远端与本地冲突时如何`git push`**
+12. **当远端与本地冲突时如何`git push`**
 
 	
 
