@@ -58,3 +58,11 @@ Changes to be committed:
 
 7. `git push`将commit推至github
 
+8. `git branch <branch_name>`创建分支，`git switch <branch_name>`切换分支
+9. `git checkout -b <branch_name>`合并上述两个命令
+
+10. `git clone <SSH>`从远端克隆仓库
+
+11. 
+	
+
