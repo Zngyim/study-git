@@ -66,6 +66,7 @@ Changes to be committed:
 11. `git pull`把远端改动拉取到本地
 
 12. **当远端与本地冲突时如何`git push`**
-1
+
+13. 本地创建新文件夹后，使用`git status`命令并不会检测到，只需在新建文件夹底下新建文件，并可以检测到，此时正常步骤推到github上即可
 	
 
